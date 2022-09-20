@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"headings-font"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"handle",
+				"triggerHandler"
+			],
+			[
+				"back-c",
+				"background-color\tproperty"
+			],
+			[
+				"z-",
+				"z-index\tproperty"
+			],
+			[
+				"ffa",
+				"font-family\tproperty"
+			],
+			[
+				"mari",
+				"marker-mid\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inine",
+				"inline-block\tdisplay"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"d-",
+				"d-ib\tdisplay: inline-block;"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"language",
+				"menu-switch-language"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"body-",
+				"body-background-color"
+			],
+			[
+				"transition-",
+				"transition-duration\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"ma-t",
+				"margin-top\tproperty"
+			],
+			[
+				"pos-",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"out",
+				"outerHeight"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"boe",
+				"border-style\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"sing",
+				"single_post"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Sass (libsass)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/liviu/Templates/anii/blog.html",
+		"/home/liviu/Templates/anii/single-post.html",
+		"/home/liviu/Templates/anii/about.html",
+		"/home/liviu/Templates/anii/404.html",
+		"/home/liviu/Templates/anii/contact.html",
+		"/home/liviu/Templates/anii/episodes.html",
+		"/home/liviu/Templates/anii/single-episode.html",
+		"/home/liviu/Templates/anii/index.html",
+		"/home/liviu/Templates/anii/index-alt.html",
+		"/home/liviu/Templates/anii/styleguide.html",
+		"/home/liviu/Templates/anii/assets/css/style.css",
+		"/tmp/_dc~~~/863095695/single-post.html",
+		"/home/liviu/Downloads/leluxe/single-post.html",
+		"/home/liviu/Templates/anii/sendmail.php",
+		"/home/liviu/Templates/anii/assets/css/style-basic.css",
+		"/tmp/_dc~~~/644617368/contact.html",
+		"/home/liviu/Templates/anii/tmp/logo.svg",
+		"/home/liviu/Downloads/New Project-svg.svg",
+		"/home/liviu/Templates/anii/tmp/contact.html",
+		"/home/liviu/Templates/anii/assets/js/color-customizer.js",
+		"/home/liviu/Downloads/color-customizer.js",
+		"/home/liviu/Templates/anii/assets/css/mediaelement-anii.css",
+		"/home/liviu/Downloads/import_3e79f3fd-365a-4237-9bdc-30817b5c255d/wprentals/libs/ajax_functions.php",
+		"/home/liviu/Downloads/import_3e79f3fd-365a-4237-9bdc-30817b5c255d/3.revolution_slider_demo/read_me.txt",
+		"/home/liviu/Templates/anii/assets/js/mediaelement-anii.js",
+		"/home/liviu/Templates/anii/assets/js/functions.js",
+		"/tmp/_dc~~~/889429292/index.php",
+		"/home/liviu/Music/Verdi - Macbeth - Gardelli (1970)/CD 1/CD1 Verdi-Macbeth - Souliotis - Fischer-Dieskau - Pavarotti - Gardelli .cue",
+		"/tmp/_dc~~~/1799743455/php.ini",
+		"/home/liviu/.config/sublime-text-3/Packages/User/JavaScript/console.sublime-snippet",
+		"/home/liviu/Templates/anii/assets/css/materialdesignicons.css",
+		"/home/liviu/Downloads/persempre/style.css",
+		"/tmp/_dc~~~/495389799/index.php",
+		"/home/liviu/Templates/anii/assets/mediaelement/mediaelementplayer-legacy.css",
+		"/home/liviu/Templates/anii/assets/mediaelement/mediaelement-migrate.js",
+		"/home/liviu/Templates/anii/assets/mediaelement/wp-mediaelement.js",
+		"/home/liviu/Templates/anii/assets/mediaelement/mediaelement-and-player.js",
+		"/tmp/_dc~~~/484000597/materialdesignicons.css",
+		"/home/liviu/Templates/hauck/assets/js/functions.js",
+		"/home/liviu/Templates/hauck/product.html",
+		"/home/liviu/Templates/hauck/assets/scss/header/_product_navigation.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_global.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_header.scss",
+		"/home/liviu/Templates/hauck/assets/scss/header/_site_navigation_mobile.scss",
+		"/home/liviu/Templates/hauck/index.html",
+		"/home/liviu/Templates/hauck/assets/scss/global/_carousel.scss",
+		"/home/liviu/Templates/hauck/assets/scss/style.scss",
+		"/home/liviu/Templates/hauck/assets/scss/global/_slick-slider.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_hero.scss",
+		"/home/liviu/Templates/hauck/assets/scss/global/_slider.scss",
+		"/home/liviu/Templates/hauck/assets/js/slick.min.js",
+		"/tmp/_dc~~~/1487464836/slick.js",
+		"/tmp/_dc~~~/317428127/slick-theme.scss",
+		"/tmp/_dc~~~/901687659/slick.scss",
+		"/tmp/_dc~~~/1299438932/style.css",
+		"/home/liviu/Templates/hauck/page.html",
+		"/home/liviu/Templates/hauck/assets/scss/header/_site_navigation_desktop.scss",
+		"/home/liviu/Pictures/Screenshots/index.html",
+		"/home/liviu/Downloads/OwlCarousel2-2.3.4/dist/owl.carousel.js",
+		"/home/liviu/Downloads/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css",
+		"/home/liviu/Downloads/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css",
+		"/tmp/_dc~~~/699614727/_theme.scss",
+		"/home/liviu/Templates/hauck/assets/scss/hero/carousel.scss",
+		"/tmp/_dc~~~/332823583/index.php",
+		"/home/liviu/Templates/hauck/assets/css/style.css",
+		"/home/liviu/Templates/hauck/assets/scss/header/_shop_navigation.scss",
+		"/home/liviu/Templates/hauck/assets/scss/content/_site-content.scss",
+		"/home/liviu/Downloads/vipo/assets/js/functions.js",
+		"/home/liviu/Templates/hauck/assets/scss/hero/_media.scss",
+		"/home/liviu/Templates/hauck/assets/scss/global/_modal-popup.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_functions.scss",
+		"/home/liviu/Templates/hauck/assets/scss/global/_cookie-notice.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_variables.scss",
+		"/home/liviu/Templates/hauck/assets/scss/header/_site_identity.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_footer.scss",
+		"/tmp/_dc~~~/394626237/index.html",
+		"/tmp/_dc~~~/751831695/php.ini",
+		"/home/liviu/Templates/hauck/assets/scss/_reset.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_icons.scss",
+		"/tmp/_dc~~~/1959992779/functions.php",
+		"/home/liviu/lamp/apps/wordpress/htdocs/wp-content/plugins/podcast-helper/podcast-helper.php",
+		"/home/liviu/Downloads/ricca/js/site.js",
+		"/home/liviu/Downloads/_site_navigation_desktop.scss",
+		"/home/liviu/Templates/hauck/assets/scss/header/_site_navigation.scss",
+		"/home/liviu/Templates/hauck/assets/scss/mixins/_breakpoints.scss",
+		"/tmp/_dc~~~/943510488/site.js",
+		"/home/liviu/.config/sublime-text-3/Packages/Libsass Build/Libsass Build.sublime-settings",
+		"/home/liviu/Templates/hauck/assets/scss/mixins/_transition.scss",
+		"/home/liviu/Templates/hauck/assets/scss/mixins/_rem.scss",
+		"/home/liviu/Templates/hauck/assets/scss/mixins/_appearance.scss",
+		"/tmp/_dc~~~/1371623033/index.html",
+		"/tmp/_dc~~~/2018509955/style.css",
+		"/tmp/_dc~~~/590321920/page2.html",
+		"/home/liviu/Templates/hauck/page2.html",
+		"/home/liviu/Downloads/page2.html",
+		"/tmp/_dc~~~/273146737/iconizr-png-sprite.css",
+		"/home/liviu/Downloads/svg/icons.svg",
+		"/tmp/_dc~~~/1996881330/iconizr-svg-sprite.css",
+		"/tmp/_dc~~~/58258605/iconizr-svg-sprite-preview.html",
+		"/home/liviu/Downloads/svg/de.svg",
+		"/home/liviu/Downloads/svg/uk.svg",
+		"/home/liviu/Downloads/svg/ru.svg",
+		"/home/liviu/Downloads/svg/ro.svg",
+		"/home/liviu/Downloads/svg/pl.svg",
+		"/home/liviu/Downloads/svg/it.svg",
+		"/home/liviu/Downloads/svg/fr.svg",
+		"/home/liviu/Downloads/svg/es.svg",
+		"/tmp/_dc~~~/1805436955/iconizr-png-data.css",
+		"/tmp/_dc~~~/948301439/icons.svg",
+		"/home/liviu/Downloads/de.svg",
+		"/home/liviu/Downloads/pl.svg",
+		"/home/liviu/Templates/hauck/assets/scss/_typography.scss",
+		"/home/liviu/Templates/hauck/assets/js/modernizr-custom.js",
+		"/home/liviu/lamp/apps/wordpress/htdocs/wp-content/themes/castilo/style.css",
+		"/home/liviu/Downloads/wp-config.php",
+		"/home/liviu/Templates/hauck/assets/scss/utilities/_spacing.scss",
+		"/home/liviu/Templates/hauck/assets/scss/header/_store_navigation.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_content.scss",
+		"/home/liviu/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/liviu/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/liviu/Templates/hauck/assets/scss/mixins/_grid.scss",
+		"/home/liviu/Templates/hauck/assets/scss/_grid.scss",
+		"/home/liviu/Downloads/bootstrap-4.3.1/scss/_variables.scss",
+		"/home/liviu/Templates/hauck/assets/scss/utilities/_flex.scss",
+		"/home/liviu/Downloads/bootstrap-4.3.1/scss/bootstrap-grid.scss",
+		"/home/liviu/Templates/hauck/assets/scss/utilities/_display.scss",
+		"/home/liviu/Downloads/bootstrap-4.3.1/scss/_functions.scss",
+		"/home/liviu/Downloads/bootstrap-4.3.1/scss/_grid.scss"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+			"/home/liviu/Templates/anii",
+			"/home/liviu/Templates/anii/",
+			"/home/liviu/Templates/anii/assets/css",
+			"/home/liviu/Templates/hauck/assets/scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<time ",
+			"\"class=\"",
+			"<time ",
+			"main",
+			".single",
+			"https://secure.gravatar.com/avatar/1e9fc92f318dd8a45187762c8dd67fc2?s=160&amp;d=mm&amp;r=g",
+			".alert",
+			"alert",
+			"contact_form",
+			"width=\"100\" height=\"30\"",
+			"width=\"100\" height=\"303\"",
+			"width=\"185\" height=\"33\"",
+			"\t\t\t\t\t\t\t\t\t</",
+			"\t\t\t\t\t\t\t</",
+			"<a href=\"#\" class=\"button button-filled button-color button-small\">Amazon</a> <a href=\"#\" class=\"button button-filled button-color button-small\">iTunes</a> <a href=\"#\" class=\"button button-filled button-color button-small\">Spotify</a>",
+			"404",
+			"text-uppercase",
+			"<p class=\"text-uppercase no-margin-bottom\"><strong>Heading",
+			"link",
+			"primary",
+			"call-to-action col-12 col-sm-auto order-5 order-sm-2 order-lg-4",
+			"offset",
+			"hills",
+			"text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);",
+			";\n",
+			"#comments",
+			"ins",
+			"Check",
+			"dark",
+			".anii-mejs-container .mejs-volume-button .mejs-volume-slider .mejs-volume-total .mejs-volume-current",
+			"dark",
+			"body #content .anii-mejs-container .mejs-playpause-button.mejs-pause > button",
+			"dark",
+			"quote",
+			"col-md-6 col-lg-4",
+			".entry-description",
+			"C",
+			"button underline",
+			"https://liviucerchez.com/castilo/feed/podcast",
+			"expand-featured-media",
+			"col-12 col-md-8 col-xl-9",
+			"col-12 col-md-4 col-xl-3",
+			"col-12 col-md-6 col-lg-4",
+			"claqss",
+			"width=\"200\" height=\"200\" alt=\"\"></figure>",
+			"<figure class=\"gallery-item\"><img",
+			"<a href=\"episode.html\"",
+			"<h2 class=\"entry-title\"><a href=\"episode.html\"",
+			"\"",
+			"transition",
+			"hr",
+			"font-size",
+			".dark-mode ",
+			"dark-",
+			"inherit",
+			"sample-post",
+			"Posted in:",
+			"Material Design Icons",
+			"http:",
+			"6rem",
+			"Feel",
+			"h4",
+			"col-6 col-lg-3",
+			"current-menu-item",
+			"featured",
+			"secondary-color",
+			"navbar-is-sticky",
+			"play",
+			"caption",
+			"download",
+			"pause",
+			"pausew",
+			"-play",
+			"play",
+			"Material-Design-Iconic-Font",
+			"#cc00aa",
+			"#262626",
+			"1.65em",
+			"castilo",
+			"icon",
+			"home_player",
+			"getCurrentTime",
+			"setCurrentTime ",
+			"\"",
+			"castilo",
+			"primary",
+			"inline-block",
+			"transition-duration",
+			"tabs",
+			"wp-custom-header",
+			"line-height",
+			"text",
+			"appearance",
+			"height",
+			"mobile-menu-toggle",
+			"scale",
+			"theme",
+			"left",
+			"loadingClass",
+			"ajax-loader.gif",
+			");\n",
+			"16",
+			".submenu-container",
+			"vipo",
+			"16",
+			"has-hero",
+			"hero",
+			"70vh",
+			"btn comparedetail",
+			"130",
+			"380",
+			"margin-bottom: 0;",
+			"table",
+			".5s",
+			"$header-bg-color",
+			"quantity",
+			"visibility",
+			"(e)",
+			"jQuery( window )",
+			"active",
+			"curre",
+			"active",
+			"$header-heights",
+			"-breakpoint",
+			"\t\t\t@",
+			"favorites",
+			"|",
+			"submenu-additional-information"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<time datetime=\"2019-04-03T21:32:07+02:00\" ",
+			"\" class=\"",
+			"<time datetime=\"2019-04-03T21:32:07+02:00\"",
+			"tmp/sample-avatar.jpg",
+			"width=\"98\" height=\"30\"",
+			"width=\"100\" height=\"30\"",
+			"<a href=\"#\" class=\"button button-filled button-color button-small\"><span class=\"mdi mdi-amazon\"></span> Amazon</a> <a href=\"#\" class=\"button button-filled button-color button-small\"><span class=\"mdi mdi-apple\"></span> iTunes</a> <a href=\"#\" class=\"button button-filled button-color button-small\"><span class=\"mdi mdi-spotify\"></span> Spotify</a>",
+			"<a href=\"#\" class=\"button button-filled button-color button-small\"><span class=\"mdi mdi-amazon\"></span> Amazon</a> <a href=\"#\" class=\"button button-filled button-color button-small\">iTunes</a> <a href=\"#\" class=\"button button-filled button-color button-small\">Spotify</a>",
+			"<p class=\"text-uppercase\"><strong>Heading",
+			"call-to-action col-12 col-lg-auto order-5 order-xl-4",
+			"anii",
+			"text-shadow: 1px 1px 1px rgba(0, 0, 0, .15);",
+			"col-lg-6",
+			"D",
+			"button button-underline",
+			"#",
+			"",
+			"col-12 col-lg-8",
+			"col-12 col-lg-4",
+			"col-12 col-md-6 col-lg-4 grid-item",
+			"class",
+			"width=\"200\" height=\"200\" alt=\"\"></div></figure>",
+			"<figure class=\"gallery-item\"><div claqss=\"gallery-icon\"><img",
+			"<a href=\"single-episode.html\"",
+			"<h2 class=\"entry-title\"><a href=\"single-episode.html\"",
+			"",
+			"body ",
+			"",
+			"sample-episode",
+			"Tags:",
+			"https:",
+			"https",
+			"h5",
+			"col-12 col-sm-6 col-lg-3",
+			"Material Design Icons",
+			"var(--primary-color)",
+			"var(--body-text-color)",
+			"1.25rem",
+			"anii",
+			"mini_home_player",
+			"'",
+			"anii",
+			"featured-media",
+			"hauck",
+			"button-details",
+			"button",
+			"$mobile-menu-transition-duration",
+			"( e )",
+			"$window",
+			"mobile-menu",
+			"is-mobile-menu-opened",
+			".is-hovered",
+			"0, 0, 0",
+			"icon-cross",
+			"'",
+			":before {",
+			"jpg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>",
+			"<div class=\"submenu-teaser\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img",
+			"<div class=\"col\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"submenu-teaser\"><img src=",
+			"is-hovered",
+			"hauck",
+			"",
+			" col-lg-2",
+			"-",
+			"",
+			"\n.icon-",
+			"\t",
+			"\";\n}",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Libsass Build/Sass (libsass).sublime-build",
+	"project": "anii.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Templates/themes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
