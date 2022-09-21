@@ -1315,7 +1315,7 @@ button .mdi {
 #top {
 	position: relative;
 	z-index: 80;
-	background-color: var(--secondary-color);
+	background-color: #091010;
 	color: var(--primary-alt-color);
 }
 

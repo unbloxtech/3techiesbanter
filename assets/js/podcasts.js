@@ -5,7 +5,7 @@ fetch("https://api.omny.fm/orgs/4bb33704-615b-4054-aae9-ace500fd4197/programs/da
     completedata1.Clips.map((values) => {
         if(values.Season == 1){
         data1 +=
-            `<iframe src="${values.EmbedUrl}" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" title="${values.Title}"></iframe>`
+            `<iframe src="${values.EmbedUrl}" style="border-radius:20px" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" title="${values.Title}"></iframe>`
         }
     });
     document.getElementById('season1').innerHTML = data1;
@@ -13,7 +13,7 @@ fetch("https://api.omny.fm/orgs/4bb33704-615b-4054-aae9-ace500fd4197/programs/da
     completedata1.Clips.map((values) => {
         if(values.Season == 2){
         data2 +=
-            `<iframe src="${values.EmbedUrl}" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" title="${values.Title}"></iframe>`
+            `<iframe src="${values.EmbedUrl}" style="border-radius:20px" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" title="${values.Title}"></iframe>`
         }
     });
     document.getElementById('season2').innerHTML = data2;
@@ -21,7 +21,7 @@ fetch("https://api.omny.fm/orgs/4bb33704-615b-4054-aae9-ace500fd4197/programs/da
        let latest = ""
 
        latest =   `<h6 class="subtitle">${completedata1.Clips[0].Title}</h6>
-                   <iframe src="${completedata1.Clips[0].EmbedUrl}" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" border-radius="100" title="${completedata1.Clips[0].Title}"></iframe>`
+                   <iframe src="${completedata1.Clips[0].EmbedUrl}" style="border-radius:20px" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" border-radius="100" title="${completedata1.Clips[0].Title}"></iframe>`
     
     document.getElementById('latest').innerHTML = latest;
 }).catch((err) => {
