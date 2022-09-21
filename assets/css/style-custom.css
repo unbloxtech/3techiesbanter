@@ -1,1 +1,8 @@
 /* place your custom style here and include the file in your page */
+/* place your custom style here and include the file in your page */
+@media only screen and (max-device-width:768px) {
+    .image-size {
+        width: 150px !important;
+    }
+   
+  }
