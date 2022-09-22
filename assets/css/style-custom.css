@@ -4,5 +4,20 @@
     .image-size {
         width: 150px !important;
     }
+    .hide-mobile{
+        display: none;
+    }
+    
    
-  }
+}
+
+@media only screen and (min-device-width:768px) {
+   
+    .hide-desktop{
+        display: none;
+    }
+    .font-desktop{
+        font-size: 2.441em;
+    }
+   
+}

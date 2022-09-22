@@ -905,7 +905,7 @@ a:not([href]):not([tabindex]) {
 
 .tab-container .tabs li a:hover,
 .tab-container .tabs li a:focus {
-	color: var(--link-color);
+	color: #ff6600;
 }
 
 @media (min-width: 768px) {
@@ -916,7 +916,7 @@ a:not([href]):not([tabindex]) {
 
 .tab-container .tabs li.active a {
 	position: relative;
-	color: var(--link-color);
+	color: #ff6600;
 }
 
 .tab-container .tabs li.active a:after {
@@ -926,7 +926,7 @@ a:not([href]):not([tabindex]) {
 	right: 0;
 	top: -3px;
 	height: 3px;
-	background-color: var(--link-color);
+	background-color: #ff6600;
 }
 
 /* Form elements */
@@ -1926,7 +1926,7 @@ button .mdi {
 	line-height: 50px;
 	margin-right: 5px;
 	text-align: center;
-	background-color: var(--primary-color);
+	background-color: #ff6600;
 	color: var(--primary-alt-color);
 	border-radius: 50%;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, .15);
@@ -1953,7 +1953,7 @@ button .mdi {
 #featured .social-navigation a:hover,
 #featured .social-navigation a:focus {
 	background-color: var(--primary-alt-color);
-	color: var(--primary-color);
+	color: #ff6600;
 }
 
 #featured .social-navigation a:last-child {
