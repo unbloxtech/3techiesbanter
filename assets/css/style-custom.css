@@ -7,6 +7,12 @@
     .hide-mobile{
         display: none;
     }
+    .image-banner {
+        width: 250px !important;
+        margin-bottom: 30px !important;
+        border-radius: 20px;
+    }
+    
     
    
 }
