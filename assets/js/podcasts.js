@@ -17,6 +17,14 @@ fetch("https://api.omny.fm/orgs/4bb33704-615b-4054-aae9-ace500fd4197/programs/da
         }
     });
     document.getElementById('season2').innerHTML = data2;
+    let data3 = "";
+    completedata1.Clips.map((values) => {
+        if(values.Season == 999){
+        data3 +=
+            `<iframe src="${values.EmbedUrl}" style="border-radius:20px" width="100%" height="180" loading="lazy" allow="autoplay; clipboard-write" frameborder="0" title="${values.Title}"></iframe>`
+        }
+    });
+    document.getElementById('specials').innerHTML = data3;
     
        let latest = ""
 

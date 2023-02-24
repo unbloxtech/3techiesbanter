@@ -32,7 +32,7 @@ Table of contents:
 	--primary-color: #f17a24;
 	--primary-alt-color: #ffffff;
 	--secondary-color: #0e2d2d; /*#331500;*/
-	--link-color: #ffbd14;
+	--link-color: #f17a24;
 	--border-color: #192b2b; /*#2d231a;*/
 	--body-background-color: #091010; /*#170e09;*/
 	--body-text-color: #ffffff;
@@ -756,7 +756,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .alert.notice {
-	background-color: #805200;
+	background-color: #f17a24;
 }
 
 .alert.error {

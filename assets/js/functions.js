@@ -213,6 +213,8 @@ jQuery( function() { "use strict";
 
 });
 
+
+//selector from your HTML form
 $('#my-form').submit(function(e) {
 	//prevent the form from submiting so we can post to the google form
 	e.preventDefault();
@@ -238,3 +240,24 @@ $('#my-form').submit(function(e) {
 	  }  
 	});
   });
+
+const navbar = document.querySelector('nav');
+const navbarHeight = 88.33;
+const desktopMediaQuery = window.matchMedia('(min-width: 768px)');
+
+if (desktopMediaQuery.matches) {
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    const target = document.querySelector(this.getAttribute('href'));
+    if (!target) return;
+
+    const targetTop = target.getBoundingClientRect().top + window.scrollY;
+    window.scrollTo({
+      top: targetTop - navbarHeight,
+      behavior: 'smooth'
+    });
+  });
+});
+}

@@ -744,7 +744,7 @@ a:not([href]):not([tabindex]) {
 }
 
 .alert.notice {
-	background-color: #805200;
+	background-color: #ff6600;
 }
 
 .alert.error {
